@@ -1,4 +1,4 @@
-[![christian howard banner](header.jpg)](https://www.christianhoward.net)
+[![christian howard banner](https://github.com/christianhoward/christianhoward/blob/master/header.jpg)](https://www.christianhoward.net)
 
 Hey! My name is Christian and I am a geospatial application developer at [Blue Raster](https://www.blueraster.com/).
 
