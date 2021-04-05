@@ -9,6 +9,7 @@ Outside of work, I am an avid triathlete and spend my free time training for end
 ---
 ### Selected Client Projects
 - [Cushman & Wakefield](https://www.esri.com/about/newsroom/publications/wherenext/cushman-wakefield-3d-digital-transformation/)
+- [Forest Stewardship Council](https://fsc.org/en/newsfeed/auditing-from-the-sky-fsc-launches-new-fsc-gis-portal)
 - [Stimson Center's Mekong Infrastructure Tracker](https://www.blueraster.com/mekong-infrastructure-tracker/)
 - [Stimson Center's Mekong Dam Monitor](https://www.blueraster.com/bringing-transparency-to-transboundary-water-policy-in-the-mekong-river-basin/)
 - [American Institutes for Research](https://www.blueraster.com/workforce-development)
